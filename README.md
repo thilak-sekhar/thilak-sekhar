@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thilak-sekhar
 - 👀 I’m interested in Web Development and in the field of Artificial Intelligence and Machine learning.
-- 🌱 I’m currently learning advanced Machine Learning and Gen AI and Angular.
+- 🌱 I’m currently learning advanced Machine Learning and Gen AI
+- .
 - 💞️ I’m looking to collaborate on Web Development and AI community to improve my self a better person day by day.
 - 📫 How to reach me:- EMail:- k.thilak.sekhar@gmail.com
 - 😄 Pronouns: He/Him.
